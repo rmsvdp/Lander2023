@@ -1,6 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+// Lander VDP 2324
 public class Lander2023 {
 
  
