@@ -1,18 +1,19 @@
-## Getting Started
+## Lander 2023
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Lander 2023 es un proyecto en java, desarrollado con própósitos exclusivamente académicos.
 
-## Folder Structure
+## Objetivos
 
-The workspace contains two folders by default, where:
+Partiendo de una versión con enfoque de programación estructurada. Se trata de construir
+un simulador de alunizaje muy básico en modo texto:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Las fases irán publicandose a medida que se completen las definidas. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Fases del proyecto
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- FASE 0: Versión clásica : Lander2023.java
+- FASE 1: Versión Orientada a Objetos
+	* Creación de un conjunto de básico de clases que implemente la funcionalidad de la FASE 0
+	* Ampliación del modelo para poder almacenar los datos de cada simulación
+	
